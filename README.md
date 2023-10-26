@@ -7,7 +7,7 @@ Using framework Cypress implement a java script to automate offensive actions an
 - choose checkbox "I'm the robot"
 - choose radiobutton "Robots rule!"
 - press Submit button
-# Installation
+## Installation
 1. Create new directory my-cypress-project:
 
 ![image](https://github.com/YuriyK2022/my-cypress-project/assets/118524489/4b6d26f5-c402-490a-b7dd-e9271a9c24ce)
@@ -26,7 +26,7 @@ This will create a package.json file for your project.
 
 ![image](https://github.com/YuriyK2022/my-cypress-project/assets/118524489/b709ea95-fa27-4940-8c52-51634f85169d)
 
-# Open Cypress Test Runner and create test file
+## Open Cypress Test Runner and create test file
 4. Open the Cypress Test Runner by the following command:
 
 ![image](https://github.com/YuriyK2022/my-cypress-project/assets/118524489/32e6acf3-9a15-4cfa-92d0-5e69b4d473a7)
@@ -65,7 +65,7 @@ describe('Math Test', function () {
 });
 ```
 
-# Run Cypress Test
+## Run Cypress Test
 7. Go back into the Cypress Runner and click on the file math.spec.js:
 
 ![image](https://github.com/YuriyK2022/my-cypress-project/assets/118524489/8e0f2cc4-6ea3-43f0-8426-7e163c2ff703)
@@ -76,7 +76,7 @@ Note: my default browser is Firefox
 
 ![image](https://github.com/YuriyK2022/my-cypress-project/assets/118524489/6229243f-3704-4bdb-9508-e1cd77c6e5fd)
 
-# Results
+## Results
 9. All tests is passing!
 
 ![image](https://github.com/YuriyK2022/my-cypress-project/assets/118524489/63bb2d6f-eb7e-4006-886c-277c3c9ccc37)
